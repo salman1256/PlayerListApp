@@ -1,0 +1,14 @@
+D:\CICDTraining\Day3\PlayerList\PlayerList\bin\Debug\net8.0\PlayerList.exe
+D:\CICDTraining\Day3\PlayerList\PlayerList\bin\Debug\net8.0\PlayerList.deps.json
+D:\CICDTraining\Day3\PlayerList\PlayerList\bin\Debug\net8.0\PlayerList.runtimeconfig.json
+D:\CICDTraining\Day3\PlayerList\PlayerList\bin\Debug\net8.0\PlayerList.dll
+D:\CICDTraining\Day3\PlayerList\PlayerList\bin\Debug\net8.0\PlayerList.pdb
+D:\CICDTraining\Day3\PlayerList\PlayerList\obj\Debug\net8.0\PlayerList.GeneratedMSBuildEditorConfig.editorconfig
+D:\CICDTraining\Day3\PlayerList\PlayerList\obj\Debug\net8.0\PlayerList.AssemblyInfoInputs.cache
+D:\CICDTraining\Day3\PlayerList\PlayerList\obj\Debug\net8.0\PlayerList.AssemblyInfo.cs
+D:\CICDTraining\Day3\PlayerList\PlayerList\obj\Debug\net8.0\PlayerList.csproj.CoreCompileInputs.cache
+D:\CICDTraining\Day3\PlayerList\PlayerList\obj\Debug\net8.0\PlayerList.dll
+D:\CICDTraining\Day3\PlayerList\PlayerList\obj\Debug\net8.0\refint\PlayerList.dll
+D:\CICDTraining\Day3\PlayerList\PlayerList\obj\Debug\net8.0\PlayerList.pdb
+D:\CICDTraining\Day3\PlayerList\PlayerList\obj\Debug\net8.0\PlayerList.genruntimeconfig.cache
+D:\CICDTraining\Day3\PlayerList\PlayerList\obj\Debug\net8.0\ref\PlayerList.dll
